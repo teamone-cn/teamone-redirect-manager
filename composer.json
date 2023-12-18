@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dongnan/linkcache": "^1.0"
+    }
+}
